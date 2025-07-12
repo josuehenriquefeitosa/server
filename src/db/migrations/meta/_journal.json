@@ -15,6 +15,13 @@
       "when": 1752024031444,
       "tag": "0001_tricky_talon",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752260662928,
+      "tag": "0002_perpetual_winter_soldier",
+      "breakpoints": true
     }
   ]
 }
